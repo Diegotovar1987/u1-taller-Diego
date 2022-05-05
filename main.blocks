@@ -1,0 +1,55 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="v=kW=5Aj/%GpCNqDKX#R" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="BPel}s4.kcg2NAqP~jp2"><field name="i">IconNames.Square</field><next><block type="device_show_leds" id="*kChCpgX~b;M])hp=q2P"><field name="LEDS">`
+        . # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="Y~22QVVshNc^(9ET@4DR"><field name="LEDS">`
+        . . # # # 
+        . . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="DII:v/Qnvxfk`en$3m-c"><field name="LEDS">`
+        . . . # # 
+        . . . . # 
+        . . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="f/Cy2xsS7zA-Ew`r~cUD"><field name="LEDS">`
+        . . . . # 
+        . . . . # 
+        . . . . # 
+        . . . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="vUbEmN+O^R$n/AHsM4RH"><field name="LEDS">`
+        . . . . # 
+        . . . # # 
+        . . . . # 
+        . # . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="IgPj%H2xwAV?qs}D1GTG"><field name="LEDS">`
+        . . . . # 
+        . . . # # 
+        . . # . # 
+        . # . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="::g=l`5(|Pn^6P|w)XS;"><field name="LEDS">`
+        . . . . . 
+        . . . . # 
+        . . . # # 
+        . . # # # 
+        . # # # #
+        `</field><next><block type="device_show_leds" id=".v0OYH!.{9g(dE8-WB+G"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . # 
+        . . . # # 
+        . . # # #
+        `</field><next><block type="device_show_leds" id=")_/Ub~m{9Z^PB;ahVfgQ"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . # 
+        . . . # #
+        `</field><next><block type="device_clear_display" id="YknY$qqC!f+nzi{(K73N"/></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="nM:^WDV/nL6YM7PcL|dg" x="205" y="0"/><block type="basic_show_icon" id="Szc|6zl6oDt:3nA`O##:" disabled="true" x="277" y="1474"><field name="i">IconNames.Heart</field></block></xml>
